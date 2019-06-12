@@ -1,2 +1,1 @@
-# ledserver-Kevin-Winkler
-Controll your Leds on the board
+Mit diesem Client - Server Programm kann man die Leds vom Raspberry Board steuern.
