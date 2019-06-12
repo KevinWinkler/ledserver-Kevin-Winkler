@@ -1,1 +1,5 @@
-Mit diesem Client - Server Programm kann man die Leds vom Raspberry Board steuern.
+# LedServer
+- Steuerung er LEDs am Raspberry mittels TCP-Verbindung
+- GPIO-Pins 18, 23, 24, 25
+- Hört auf Port 4000
+- Kevin Winkler
